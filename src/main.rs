@@ -1,7 +1,3 @@
-extern crate chrono;
-extern crate csv;
-extern crate serde_json;
-
 use chrono::NaiveDate;
 use csv::Reader;
 
@@ -9,7 +5,7 @@ use std::fs::{File, create_dir_all};
 use std::vec::Vec;
 use std::collections::HashMap;
 
-fn main() -> Result<(), Box<std::error::Error>> {
+fn main() -> Result<(), Box<dyn std::error::Error>> {
     for year in 2018..2024 {
         let mut db: HashMap<NaiveDate, Vec<String>> = HashMap::new();
         let mut reader = Reader::from_path(format!("./data/{}.csv", year))?;
