@@ -13,14 +13,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc7c2b1c-48ac-46db-82d2-40f687283a6b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/holiday_gen.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599871226369</updated>
       <workItem from="1599871227536" duration="2693000" />
-      <workItem from="1599889932054" duration="133000" />
+      <workItem from="1599889932054" duration="736000" />
     </task>
     <servers />
   </component>
@@ -92,5 +85,21 @@
       <screen x="1792" y="23" width="3008" height="1579" />
     </state>
     <state x="3203" y="291" key="#com.intellij.execution.impl.EditConfigurationsDialog/1792.23.3008.1579/0.23.1792.1097@1792.23.3008.1579" timestamp="1599890064045" />
+    <state width="1873" height="271" key="GridCell.Tab.0.bottom" timestamp="1599957592210">
+      <screen x="1792" y="23" width="3008" height="1579" />
+    </state>
+    <state width="1873" height="271" key="GridCell.Tab.0.bottom/1792.23.3008.1579/0.23.1792.1097@1792.23.3008.1579" timestamp="1599957592210" />
+    <state width="1873" height="271" key="GridCell.Tab.0.center" timestamp="1599957592209">
+      <screen x="1792" y="23" width="3008" height="1579" />
+    </state>
+    <state width="1873" height="271" key="GridCell.Tab.0.center/1792.23.3008.1579/0.23.1792.1097@1792.23.3008.1579" timestamp="1599957592209" />
+    <state width="1873" height="271" key="GridCell.Tab.0.left" timestamp="1599957592209">
+      <screen x="1792" y="23" width="3008" height="1579" />
+    </state>
+    <state width="1873" height="271" key="GridCell.Tab.0.left/1792.23.3008.1579/0.23.1792.1097@1792.23.3008.1579" timestamp="1599957592209" />
+    <state width="1873" height="271" key="GridCell.Tab.0.right" timestamp="1599957592209">
+      <screen x="1792" y="23" width="3008" height="1579" />
+    </state>
+    <state width="1873" height="271" key="GridCell.Tab.0.right/1792.23.3008.1579/0.23.1792.1097@1792.23.3008.1579" timestamp="1599957592209" />
   </component>
 </project>
