@@ -6,7 +6,7 @@ use std::vec::Vec;
 use std::collections::HashMap;
 
 fn main() -> Result<(), Box<dyn std::error::Error>> {
-    for year in 2018..2027 {
+    for year in 2018..2028 {
         let mut db: HashMap<NaiveDate, Vec<String>> = HashMap::new();
         let mut reader = Reader::from_path(format!("./data/{}.csv", year))?;
         let none: Vec<String> = vec![];
