@@ -1,6 +1,6 @@
 [package]
 name = "holiday_gen"
-version = "0.1.9"
+version = "0.1.10"
 authors = ["Kim Jin Su <dummy@example.dev>"]
 edition = "2021"
 
